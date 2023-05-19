@@ -1,4 +1,4 @@
-import Game from "./assets/scenes/Game.js";
+import Game from "./assets/scenes/game.js";
 import GameOver from "./assets/scenes/GameOver.js";
 import Menu from "./assets/scenes/Menu.js";
 import Preload from "./assets/scenes/Preload.js";
