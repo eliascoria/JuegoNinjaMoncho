@@ -1,5 +1,5 @@
-# Phaser 3 Template
+Trabajp Practico N1. Programacion
+Juego Ninja Moncho.
+Elias Coria.
 
-Plantilla para iniciar nuevos proyectos con PHASER 3.
 
-Contiene configuración inicial y buenas prácticas de estructuras de carpetas.
